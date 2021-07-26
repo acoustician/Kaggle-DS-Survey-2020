@@ -36,3 +36,7 @@ This notebook is a exploratory data analysis (EDA) of the most comprehensive dat
   
   
   ![EDA1](https://github.com/acoustician/Kaggle-DS-Survey-2020/blob/main/anlaysis%20pictures/eda1a.png?raw=true)
+
+  
+  ![EDA1](https://github.com/acoustician/Kaggle-DS-Survey-2020/blob/main/anlaysis%20pictures/eda_1b.png?raw=true)
+
