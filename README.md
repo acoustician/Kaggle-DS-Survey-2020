@@ -29,5 +29,8 @@ This notebook is a exploratory data analysis (EDA) of the most comprehensive dat
 # EDA(Exploratory data analysis)  
 
   # 1.Countries have most number of data scientist(overall vs Experienced)
-      In this anlaysis focused on 
+  This anlaysis focused on top most countries which have maximum number of Data scientist.There are two bar plots first is for overall and second one is experience-wise.  
+  There are lots of year range option in experience column which makes visualization little confusing therefore the Experience of the candidates are divided in three categories,   First is Proffesional(10+ year experience) second is Intermediate(3 to 10 year experience) and last one is Beginner(0-3 year of experience).  
+        
+  Here are the plots of the analysis
   
