@@ -68,6 +68,20 @@ Here are the visualization for IDE
 
 The surveyor asked to the candidate that which programming language they used in a regular basis.Based on these question a analysis was made for the most used programming languages.Here also, candidate can select more then one choices for the particular question.That's why data are present in the diffrent columns.Therfore, for better visualization a dictionary was defined and make a dataframe from the dictionary in which all options and its value count are stored.
 
+These analysis tells us that which programming language is used mostly.
+
 Here are the visualization for this challenge
 
 ![EDA4](https://github.com/acoustician/Kaggle-DS-Survey-2020/blob/main/anlaysis%20pictures/eda4.png?raw=true)
+
+
+# 5.Machine learning algorithms used on a regular basis
+
+Machine learning algorithms are the engines of machine learning, meaning it is the algorithms that turn a data set into a model.ML algorithm is used for regression and classification problems.
+
+Surveyor asked to the candidate that which ML algorithm used on a regular basis.Here also, candidate can select more then one choices for the particular question.That's why data are present in the diffrent columns.Therfore, for better visualization a dictionary was defined and make a dataframe from the dictionary in which all options and its value count are stored.
+
+These analysis tells us that which ML algorithm is used mostly.
+
+![EDA5](https://github.com/acoustician/Kaggle-DS-Survey-2020/blob/main/anlaysis%20pictures/eda5.png?raw=true)
+
