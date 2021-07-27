@@ -95,3 +95,7 @@ This analysis is focused on mostly used BI tool by the Data analyst.
 
 ![EDA6](https://github.com/acoustician/Kaggle-DS-Survey-2020/blob/main/anlaysis%20pictures/eda6.png?raw=true)
 
+
+# 7.Platform where Publicly share or deploy data analysis or machine learning model.
+  
+  There are lots of community platform such as Kaggle, Github, Streamlit, Google colab etc. where project or model shared or deployed by data scientist.If project is publicly available than anyone around the World can access.
