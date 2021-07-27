@@ -52,7 +52,20 @@ The plots below give a general idea of the responses to the survey. The subsecti
    ![EDA2](https://github.com/acoustician/Kaggle-DS-Survey-2020/blob/main/anlaysis%20pictures/eda2.png?raw=true)
  
  
- # 3.Most popular Integrated development environments (IDE)
+ 
+ # 3.Programming Language used on a regular basis
+
+The surveyor asked to the candidate that which programming language they used in a regular basis.Based on these question a analysis was made for the most used programming languages.Here also, candidate can select more then one choices for the particular question.That's why data are present in the diffrent columns.Therfore, for better visualization a dictionary was defined and make a dataframe from the dictionary in which all options and its value count are stored.
+
+These analysis tells us that which programming language is used mostly.
+
+Here are the visualization for this challenge
+
+![EDA3](https://github.com/acoustician/Kaggle-DS-Survey-2020/blob/main/anlaysis%20pictures/eda3.png?raw=true)
+
+ 
+ 
+ # 4.Most popular Integrated development environments (IDE)
  An IDE or Integrated Development Environment, enables programmers to consolidate the different aspects of writing a computer program.IDEs increase programmer productivity by  combining common activities of writing software into a single application: editing source code, building executables, and debugging.
  
 Candidates have multiple choices to select the one or more then one IDE.This analysis tells us about the popular IDE for data science.
@@ -62,19 +75,9 @@ Because of multiple choice, Data are present in diffrent number of column. For b
 Here are the visualization for IDE
 
 
-![EDA3](https://github.com/acoustician/Kaggle-DS-Survey-2020/blob/main/anlaysis%20pictures/eda3.png?raw=true) 
+![EDA4](https://github.com/acoustician/Kaggle-DS-Survey-2020/blob/main/anlaysis%20pictures/eda4.png?raw=true) 
 
 
-
-# 4.Programming Language used on a regular basis
-
-The surveyor asked to the candidate that which programming language they used in a regular basis.Based on these question a analysis was made for the most used programming languages.Here also, candidate can select more then one choices for the particular question.That's why data are present in the diffrent columns.Therfore, for better visualization a dictionary was defined and make a dataframe from the dictionary in which all options and its value count are stored.
-
-These analysis tells us that which programming language is used mostly.
-
-Here are the visualization for this challenge
-
-![EDA4](https://github.com/acoustician/Kaggle-DS-Survey-2020/blob/main/anlaysis%20pictures/eda4.png?raw=true)
 
 
 # 5.Machine learning algorithms used on a regular basis
