@@ -85,3 +85,13 @@ These analysis tells us that which ML algorithm is used mostly.
 
 ![EDA5](https://github.com/acoustician/Kaggle-DS-Survey-2020/blob/main/anlaysis%20pictures/eda5.png?raw=true)
 
+
+# 6.Business intelligence tools used on regular basis
+
+Business Intelligence (BI) includes tools and techniques, for the transformation of raw data into meaningful and actionable information for Business analysis.In short, Business intelligence tool is used to provide insights from structured data.
+Surveyor asked to the candidate that which BI tool used on a regular basis.Here also, candidate can select more then one choices for the particular question.That's why data are present in the diffrent columns.Therfore, for better visualization a dictionary was defined and make a dataframe from the dictionary in which all options and its value count are stored.
+
+This analysis is focused on mostly used BI tool by the Data analyst.
+
+![EDA6](https://github.com/acoustician/Kaggle-DS-Survey-2020/blob/main/anlaysis%20pictures/eda6.png?raw=true)
+
