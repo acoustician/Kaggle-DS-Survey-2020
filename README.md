@@ -60,5 +60,14 @@ Because of multiple choice, Data are present in diffrent number of column. For b
 Here are the visualization for IDE
 
 
-![EDA3](https://github.com/acoustician/Kaggle-DS-Survey-2020/blob/main/anlaysis%20pictures/eda3.png?raw=true)
- 
+![EDA3](https://github.com/acoustician/Kaggle-DS-Survey-2020/blob/main/anlaysis%20pictures/eda3.png?raw=true) 
+
+
+
+# 4.Programming Language used on a regular basis
+
+The surveyor asked to the candidate that which programming language they used in a regular basis.Based on these question a analysis was made for the most used programming languages.Here also, candidate can select more then one choices for the particular question.That's why data are present in the diffrent columns.Therfore, for better visualization a dictionary was defined and make a dataframe from the dictionary in which all options and its value count are stored.
+
+Here are the visualization for this challenge
+
+![EDA4](https://github.com/acoustician/Kaggle-DS-Survey-2020/blob/main/anlaysis%20pictures/eda4.png?raw=true)
