@@ -147,4 +147,3 @@ NLP a branch of AI used diffrent methods to train a model.Data scientist mostly 
 Coming to the Business intelligence tools which gets the visualized analysis of data to solve the challanges of business Data scientist used Tableau and PowerBI mostly.
 
 According to this analysis, if somebody wants to showcase your model and analysis to the world than Github is the best platfrom for you, Kaggle got third place in this analysis.Becuase, second most majority of people do not share their project publicly.
-
